@@ -32,3 +32,9 @@ touch <filename(with extension)>                         ->                     
 NB: Note that each branch when created copies the whole project so far.
 
 So you can pull whatever modifications done in the main branch to fit your work and after success in testing merge your branch to the whole work.
+
+NB: Note that you would have to merge all the branches in your local repository  before you can update your remote repository with your local repository
+
+
+git branch -m <old filename> <new filename> -> 
+This command is for renaming a branch.
