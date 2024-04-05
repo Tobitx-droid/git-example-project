@@ -38,3 +38,4 @@ NB: Note that you would have to merge all the branches in your local repository 
 
 git branch -m <old filename> <new filename> -> 
 This command is for renaming a branch.
+Note that we rename the branch only when we are in the main branch (makes sense to do so but you can experiment)
