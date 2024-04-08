@@ -39,3 +39,12 @@ NB: Note that you would have to merge all the branches in your local repository 
 git branch -m <old filename> <new filename> -> 
 This command is for renaming a branch.
 Note that we rename the branch only when we are in the main branch (makes sense to do so but you can experiment)
+
+git checkout -b <new filename>  -> This command is for creating a new branch and switching to that branch simultaneously
+
+git branch -D <filename to be deleted>   -> 
+This command is for deleting a branch. 
+The branch can only be deleted if you are not in that branch. You can't delete a branch you are standing in.
+
+git merge <name of branch to be merged>  -> 
+This command is for merging a branch to the main branch.
