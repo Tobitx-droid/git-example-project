@@ -1,4 +1,4 @@
-git init -> For initializing or creating a git repository.                                                            The repository would now be created and you have to go to github to manually give a name to the repository
+git init -> For initializing or creating a git repository. The repository would now be created and you have to go to github to manually give a name to the repository.                                                           The repository would now be created and you have to go to github to manually give a name to the repository
 
 git status -> For checking whether there is a file in the repository you have modified or given a commit message.
 
@@ -47,4 +47,4 @@ This command is for deleting a branch.
 The branch can only be deleted if you are not in that branch. You can't delete a branch you are standing in.
 
 git merge <name of branch to be merged>  -> 
-This command is for merging a branch to the main branch.
+This command is for merging a branch to the main branch. 
